@@ -34,14 +34,14 @@ Make sure you have **Python 3.8+** installed.
 
 Then install the required libraries by running this command in your terminal:
 
-```bash
-pip install opencv-python mediapipe numpy
+```bash pip install opencv-python mediapipe numpy ```
 
 ## 🤖 AI Curiosity Rover
 
 ![Curiosity Rover](https://github.com/Ankush3104/Curiosity-Rover/blob/main/assets/Curiosity.png?raw=true)
 
 > The AI Curiosity Rover built using ESP32 and Python gesture control.
+
 
 
 
