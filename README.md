@@ -5,6 +5,11 @@ An ESP32-powered autonomous rover with **AI-assisted hand gesture control** usin
 ---
 
 ## 🚀 Features
+### 🤖 Autonomous Mode
+- The rover moves automatically without manual control.
+- Uses **ultrasonic sensors** to detect obstacles in real-time.
+- When an obstacle is detected, it **calculates an alternate path** and changes its direction intelligently.
+- Non-blocking sensor logic ensures **smooth and continuous movement**.
 - ESP32 microcontroller + L298N motor driver  
 - Wi-Fi UDP communication with Python  
 - Gesture control using webcam  
