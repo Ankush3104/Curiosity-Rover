@@ -39,7 +39,8 @@ pip install opencv-python mediapipe numpy
 
 ## 🤖 AI Curiosity Rover
 
-![Curiosity Rover](https://github.com/Ankush3104/Curiosity-Rover/blob/main/assets/curiosity.png?raw=true)
+![Curiosity Rover](https://github.com/Ankush3104/Curiosity-Rover/blob/main/assets/Curiosity.png?raw=true)
+
 
 
 
