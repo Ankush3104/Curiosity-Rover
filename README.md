@@ -36,3 +36,5 @@ Then install the required libraries by running this command in your terminal:
 
 ```bash
 pip install opencv-python mediapipe numpy
+
+![Rover Photo](assets/Curiosity.png)
