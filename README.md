@@ -45,8 +45,5 @@ pip install opencv-python mediapipe numpy
 
 
 
-> The AI Curiosity Rover built using ESP32 and Python gesture control.
-
-
 
 
